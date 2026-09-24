@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Nordström
+# Hi there! I'm Alexander Nordström, an aspiring software developer.
 
 I'm a computer science student at Blue Mountain Christian University, learning to build software and develop my programming skills.
 ## Skills
