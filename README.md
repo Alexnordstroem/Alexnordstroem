@@ -9,3 +9,5 @@ I'm a computer science student at Blue Mountain Christian University, learning t
 ## What I'm working on
 
 I'm practicing Python through class-based projects, including a Person class. I'm also learning to use Git and GitHub to track my work.
+## Contact 
+You can connect with me on [GitHub](https://github.com/Alexnordstroem). 
