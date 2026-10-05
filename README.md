@@ -1,36 +1,39 @@
-# Welcome! I'm Alexander Nordström
+# Hi, I'm Alexander Nordström 👋
 
-I'm a Computer Science student at Blue Mountain Christian University with an interest in software development and building practical applications. I'm currently developing my skills in Python, object-oriented programming, databases, and Git/GitHub.
+I'm a Computer Science student at Blue Mountain Christian University, originally from Sweden. I'm interested in software development and enjoy building projects that solve practical problems.
 
 ## Skills
 
-* **Python** — Object-oriented programming, classes, functions, and problem solving
-* **SQL / SQLite** — Working with databases and queries
-* **HTML** — Building basic web pages
-* **Git & GitHub** — Version control, commits, and project management
+- **Python:** Classes, functions, and application development
+- **Flask:** Building web applications
+- **SQL / SQLite:** Database design and queries
+- **HTML & CSS:** Web page structure and styling
+- **Git & GitHub:** Version control and project management
 
-## Projects
+## Featured Projects
 
-### Golf Tournament Tracker
+### ⛳ Golf Tournament Tracker
+A web application for tracking golf tournaments, recording scores, and reviewing results.
 
-A Python project designed to track golf tournament information and results. This project combines my interest in golf with my growing programming skills.
+- Built with Python and Flask
+- Uses HTML, CSS, and JSON
+- Includes score tracking, tournament history, and score summaries
 
-**Technologies:** Python, Git/GitHub
+[View Project on GitHub](https://github.com/Alexnordstroem/Golf-tournament-tracker)
 
-### World Cities Database
+### 🌎 World Cities Database
+A database project focused on storing and managing city information, including population and country.
 
-A database project using SQLite to work with city data and practice importing data, querying databases, and working with SQL.
+- Built using SQL and SQLite
+- Practiced database creation and table design
+- Used SQL queries to update and delete records
 
-**Technologies:** SQLite, SQL
+[View Project on GitHub](https://github.com/Alexnordstroem/COMPSIII-Assignment5)
 
-## What I'm Working On
+## Currently Learning
 
-I'm continuing to improve my programming skills through my Computer Science coursework and personal projects. My goal is to build more complete applications and develop the skills needed for a career in software development.
+I'm continuing to develop my skills in Python, object-oriented programming, databases, and software development through my Computer Science coursework.
 
 ## About Me
 
-I'm originally from Sweden and currently studying Computer Science in the United States. Outside of programming, I'm a college golfer and enjoy learning new skills through hands-on projects.
-
-## Contact
-
-You can connect with me here on GitHub and explore my projects below.
+Outside of programming, I'm a college golfer. I enjoy learning through hands-on projects and applying problem-solving skills to new challenges.
